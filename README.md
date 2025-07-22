@@ -94,8 +94,8 @@ Scan the QR code that appears in your terminal using Expo Go on your mobile devi
     - Image sharing
     - Video sharing
 
-
-  - **Expand Accessibility Features:** While Loop already supports several accessibility features such as dark/light 
+- **Expand Accessibility Features:**
+  - While Loop already supports several accessibility features such as dark/light 
   mode for visual comfort and a session timer to aid time awareness (particularly helpful for users with ADHD) there is
   strong potential to go further. Future improvements could include text-to-speech functionality, custom font selection, 
   and dynamic text scaling to better support diverse reading and communication needs.
